@@ -1,2 +1,2 @@
 # chatbot
-You bot that you can chat with
+A bot that you can chat with.
