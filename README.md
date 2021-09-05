@@ -21,5 +21,5 @@ The output will be either "you look great" or "you do not look great".
 
 ## Step 3
 Using pre-recorded sounds, the program will do one of the following.
-1. If the program detects that you look good great, then it will say "You look fantastic. Enjoy your day".
-2. If the program detects that you do not look great, then it will say "Hey man, take it easy. Good health is top priority."
+1. If the program detects that you look great, then it will say "You look fantastic. Enjoy your day".
+2. If the program detects that you do not look great, then it will say "Hey man, did you get enough sleep? Take it easy today."
