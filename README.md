@@ -23,3 +23,7 @@ The output will be either "you look great" or "you do not look great".
 Using pre-recorded sounds, the program will do one of the following.
 1. If the program detects that you look great, then it will say "You look fantastic. Enjoy your day".
 2. If the program detects that you do not look great, then it will say "Hey man, did you get enough sleep? Take it easy today."
+
+## Take away
+Accurate emotion detection seems be pretty hard for current machine learning methods. Human emotion expression can be subtle and it's also very difficult to get large number of high quality labeled data.
+This project is paused for now.
